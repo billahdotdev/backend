@@ -4,7 +4,8 @@
   "description": "server of Save More",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run build"
   },
   "author": "Masum Billah",
   "license": "ISC",
